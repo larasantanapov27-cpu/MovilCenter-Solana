@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 
 // ID del programa - se actualiza automáticamente al hacer Deploy
-declare_id!("DvEGSpp3GQLWqPb9o3djhhheNNXdMP6sEbPX14ALajjh");
+declare_id!("GkPjx4E5k2Ljuycm4JnpWzZwLqNJvpKY9NSoeXrCPNw8");
 
 #[program]
 pub mod movil_center {
